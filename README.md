@@ -1,8 +1,8 @@
-# Lunar Landing Site Navigator
+# MoonMatrix
 **NASA Space Apps Challenge 2026 – Tabuk team · Challenge: Lunar Landing Site Navigator**
 
 ## Summary
-An interactive web tool to compare lunar landing sites and time windows. Click any point on the Moon to see the nearest past mission, terrain elevation and slope (NASA LRO/LOLA), estimated power needs, illumination, shadow, temperature, Earth-communication status and dust level. A date/time selector moves the Sun across the surface.
+**MoonMatrix** is an interactive web tool to compare lunar landing sites and time windows. Click any point on the Moon to see the nearest past mission, terrain elevation and slope (NASA LRO/LOLA), estimated power needs, illumination, shadow, temperature, Earth-communication status and dust level. A date/time selector moves the Sun across the surface.
 
 ## Run
     pip install -r requirements.txt
