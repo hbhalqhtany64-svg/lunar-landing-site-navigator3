@@ -1,0 +1,19 @@
+{
+ "n_sites": 11,
+ "leave_one_out_percentile_mean": 76.3,
+ "leave_one_out_percentile_median": 88.8,
+ "random_baseline": 50.0,
+ "per_site": [
+  99.7,
+  99.6,
+  98.1,
+  87.3,
+  91.7,
+  88.8,
+  88.4,
+  91.1,
+  4.8,
+  26.9,
+  62.5
+ ]
+}
